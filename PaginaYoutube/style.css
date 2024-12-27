@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.barra_lateral {
+    width: 300px;
+    height: 100%;
+}
+
+.barra_lateral_menu {
+    width: 300px;
+    height: 40px;
+}
+
+.texto {
+    margin-bottom: 50px;
+}
